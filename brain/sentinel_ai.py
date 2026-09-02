@@ -1,3 +1,5 @@
+# Copyright (c) 2026 Charles Mwaura. All rights reserved.
+# Licensed under the PolyForm Shield License.
 import hashlib
 
 def verify_sighting(animal):
